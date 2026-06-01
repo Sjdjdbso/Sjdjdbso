@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sjdjdbso&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sjdjdbso&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
