@@ -14,15 +14,15 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sjdjdbso&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjdjdbso&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=tokyonight)
 <!--
 **Sjdjdbso/Sjdjdbso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
