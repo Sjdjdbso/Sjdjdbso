@@ -13,15 +13,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sjdjdbso&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sjdjdbso&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sjdjdbso&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 🔥 Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=tokyonight)
