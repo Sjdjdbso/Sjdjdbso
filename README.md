@@ -16,6 +16,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sjdjdbso&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 ### 🔥 Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=tokyonight)
