@@ -18,6 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjdjdbso&layout=compact&theme=tokyonight)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=tokyonight)
+
 ---
 
 ### 🔥 Streak
