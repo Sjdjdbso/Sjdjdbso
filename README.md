@@ -37,3 +37,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sjdjdbso&theme=tokyonight&no-frame=true&row=1" />
 </p>
+
+---
+
+### 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sjdjdbso&style=for-the-badge&color=0e75b6" />
+</p>
