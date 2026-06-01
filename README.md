@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Leonardo_ </h1>
 <h3 align="center">A passionate bot developer from Indonesia</h3>
 
