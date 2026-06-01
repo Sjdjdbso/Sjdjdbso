@@ -31,15 +31,6 @@
 </p>
 
 ---
-
-### 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sjdjdbso&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ### 👀 Visitors
 
 <p align="center">
