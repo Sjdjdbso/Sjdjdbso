@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Leonardo_ </h1>
+<h1 align="center">Hi 👋, I'm Leonardo_</h1>
 <h3 align="center">A passionate bot developer from Indonesia</h3>
 
 ---
@@ -13,25 +12,28 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sjdjdbso&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sjdjdbso&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sjdjdbso&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sjdjdbso&theme=tokyonight" />
 </p>
 
 ---
+
 ### 🔥 Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=tokyonight)
-<!--
-**Sjdjdbso/Sjdjdbso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sjdjdbso&theme=tokyonight&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjdjdbso&theme=tokyonight&no-frame=true&row=1" />
+</p>
