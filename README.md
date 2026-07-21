@@ -27,7 +27,7 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sjdjdbso&theme=tokyonight&hide_border=true" />
+  <img src="https://gitfut.com/Sjdjdbso" />
 </p>
 
 ---
