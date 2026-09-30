@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Header" />
+  <img src="assets/header.svg?raw=true" alt="Header" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="assets/tools.svg" alt="Tools" />
+  <img src="assets/tools.svg?raw=true" alt="Tools" />
 </div>
 
 <br>

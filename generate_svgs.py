@@ -22,7 +22,9 @@ if not os.path.exists('assets'):
     os.makedirs('assets')
 
 # 1. Header (Navbar + Welcome)
-header_svg = f"""<svg width="800" height="280" viewBox="0 0 800 280" fill="{cream}" xmlns="http://www.w3.org/2000/svg">
+header_svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="{cream}" />
     <!-- Navbar Pill -->
     {rect(150, 30, 500, 60, "#FFFFFF", black, rx=30, shadow_offset=6)}
     {text(220, 68, "HOME", 18, color=black, anchor="middle")}
@@ -43,8 +45,10 @@ with open('assets/header.svg', 'w') as f:
     f.write(header_svg)
 
 # 2. Tools (Colorful Cards)
-tools_svg = f"""<svg width="800" height="220" viewBox="0 0 800 220" fill="{cream}" xmlns="http://www.w3.org/2000/svg">
-    {text(400, 50, "🛠️ Tools & Technologies", 32, anchor="middle", font="Courier New, monospace")}
+tools_svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="{cream}" />
+    {text(400, 50, "🛠️ Tools &amp; Technologies", 32, anchor="middle", font="Courier New, monospace")}
 
     <!-- Python -->
     {rect(100, 90, 170, 80, blue, black, rx=0, shadow_offset=8)}
