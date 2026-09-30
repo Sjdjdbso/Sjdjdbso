@@ -1,0 +1,26 @@
+<svg width="800" height="280" viewBox="0 0 800 280" fill="#F4EBD9" xmlns="http://www.w3.org/2000/svg">
+    <!-- Navbar Pill -->
+    <rect x="156" y="36" width="500" height="60" rx="30" fill="#000000" />
+<rect x="150" y="30" width="500" height="60" rx="30" fill="#FFFFFF" stroke="#000000" stroke-width="4" />
+
+    <text x="220" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000" text-anchor="middle">HOME</text>
+
+    <circle cx="280" cy="60" r="5" fill="#000000" />
+    <text x="340" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000" text-anchor="middle">ABOUT</text>
+
+    <circle cx="400" cy="60" r="5" fill="#000000" />
+    <text x="460" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000" text-anchor="middle">SKILLS</text>
+
+    <circle cx="520" cy="60" r="5" fill="#000000" />
+    <text x="580" y="68" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#000000" text-anchor="middle">STATS</text>
+
+
+    <!-- Welcome Card -->
+    <rect x="60" y="140" width="700" height="120" rx="0" fill="#000000" />
+<rect x="50" y="130" width="700" height="120" rx="0" fill="#FFC900" stroke="#000000" stroke-width="4" />
+
+    <text x="400" y="180" font-family="Courier New, monospace" font-size="36" font-weight="bold" fill="#000000" text-anchor="middle">Hi 👋, I'm Leonardo_</text>
+
+    <text x="400" y="220" font-family="Courier New, monospace" font-size="22" font-weight="bold" fill="#000000" text-anchor="middle">A passionate bot developer from Indonesia 🇮🇩</text>
+
+</svg>

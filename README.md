@@ -1,38 +1,33 @@
-<h1 align="center">Hi 👋, I'm Leonardo_</h1>
-<h3 align="center">A passionate bot developer from Indonesia</h3>
+<div align="center">
+  <img src="assets/header.svg" alt="Header" />
+</div>
 
----
+<br>
 
-### 🛠️ Tools & Technologies
+<div align="center">
+  <img src="assets/tools.svg" alt="Tools" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
 
----
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sjdjdbso&theme=neobrutalist" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sjdjdbso&theme=neobrutalist" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sjdjdbso&theme=neobrutalist" />
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sjdjdbso&theme=tokyonight" />
-</p>
+<div align="center">
+  <h2>🔥 Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sjdjdbso&theme=neobrutalist" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sjdjdbso&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sjdjdbso&theme=tokyonight" />
-</p>
+<br>
 
----
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://gitfut.com/Sjdjdbso" />
-</p>
-
----
-### 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sjdjdbso&style=for-the-badge&color=0e75b6" />
-</p>
+<div align="center">
+  <h2>👀 Visitors</h2>
+  <img src="https://komarev.com/ghpvc/?username=Sjdjdbso&style=flat-square&color=FFC900&label=VISITORS" />
+</div>
